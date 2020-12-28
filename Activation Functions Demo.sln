@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "activation_functions_demo", "activation_functions_demo\activation_functions_demo.pyproj", "{EB502129-E145-4E27-9A62-59CD19692580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB502129-E145-4E27-9A62-59CD19692580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB502129-E145-4E27-9A62-59CD19692580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A19FEF44-BB5D-4DD8-AE52-4D63D9B66408}
+	EndGlobalSection
+EndGlobal
